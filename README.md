@@ -1,4 +1,4 @@
-# Infrastructure_tutorial
+# Infrastructure Tutorial
 
  ✅ **Technical Requirement**
  1. Macbook
